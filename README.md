@@ -1,3 +1,3 @@
-bankend:
-frontend: run dev
+bankend:   \n
+frontend: run dev\n
 signaling: 
