@@ -1,3 +1,3 @@
-bankend:   \n
-frontend: run dev\n
-signaling: 
+bankend:   
+frontend: run dev
+signaling: node y-websocket-server.js
